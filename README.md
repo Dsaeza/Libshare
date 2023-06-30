@@ -1,4 +1,4 @@
-# Libshare
+# Libshare        JavaScript/HTML/CSS
 Login de pagina web con validaciones para inicio de sesión
 
 lambent-torrone-9335d3.netlify.app
